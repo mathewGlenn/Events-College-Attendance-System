@@ -21,4 +21,6 @@ Public Class frmAddEvents
         MessageBox.Show("Event Saved")
 
     End Sub
+
+    'Hello, World
 End Class
